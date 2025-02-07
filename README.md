@@ -9,6 +9,21 @@ This project is a React application designed to showcase job listings and allow 
 - Responsive design
 - Tailwind CSS for styling
 
+## Project Images
+Here are some images showcasing the project:
+
+### Landing Page
+![Landing Page](src/assets/LandingPage.png)
+
+### All Courses
+![All Courses](src/assets/AllCourses.png)
+
+### Create Course
+![Create Course](src/assets/CreateCourse.png)
+
+### Edit/Delete
+![Edit/Delete](src/assets/EditDelete.png)
+
 ## Installation Instructions
 1. Clone the repository:
    ```bash
